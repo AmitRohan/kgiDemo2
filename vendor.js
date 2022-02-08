@@ -1,4 +1,5 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["vendor"],{
+const loadDemo2Vendor = () => {
+    (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["vendor"],{
 
 /***/ "/d8p":
 /*!*****************************************************************!*\
@@ -52101,3 +52102,4 @@ function innerSubscribe(result, innerSubscriber) {
 
 }]);
 //# sourceMappingURL=vendor.js.map
+}
